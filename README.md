@@ -1,4 +1,4 @@
-# Critical Infrastructure Security — Build & Attack Simulation
+# Critical Infrastructure Security - Build & Attack Simulation
 
 A hands-on project simulating a critical infrastructure environment — PLC, SCADA/HMI, and
 a segmented corporate network — covering both the engineering fundamentals and a full
